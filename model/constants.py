@@ -1,0 +1,16 @@
+LOAD_BATTERY_STATE = 'battery'
+LOAD_PRICE_STATE = 'price'
+LOAD_DEMAND_STATE = 'demand'
+LOAD_MEAN_BATTERY_STATE = 'mb'
+LOAD_VARIANCE_BATTERY_STATE = 'vb'
+
+RANDOMIZE_BATTERY = 'rb'#True
+LEARNING_RATE = 'lr'#0.03
+DISCOUNT_FACTOR = 'df'#0.9
+NUM_DUM_LOADS = 'ndl'#9
+DAY = 'day'#199999
+MODE = 'mode'
+STATES = 'state'
+MOVING_BUCKETS = 'movingbuckets'
+PF = '0'
+SHARPE = 'sahods'
